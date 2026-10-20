@@ -1,0 +1,6 @@
+{
+  "name": "TradeTrack - Pro Trading Journal",
+  "description": "A professional trading journal and analytics dashboard for tracking trades, P&L, risk-reward ratios, trading psychology, and performance metrics across stocks, options, crypto, and forex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
